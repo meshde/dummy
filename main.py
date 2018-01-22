@@ -1,3 +1,5 @@
+from utils import *
+
 a = 10
 b = 5
 
