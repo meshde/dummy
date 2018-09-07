@@ -1,0 +1,1 @@
+This is just to check if git on my new machine is correctly configured to my github account
